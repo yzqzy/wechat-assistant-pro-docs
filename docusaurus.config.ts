@@ -90,7 +90,7 @@ const config: Config = {
         },
         {
           href: "https://yzqzy.github.io/wechat-assistant/",
-          label: "开源免费版本",
+          label: "免费开源版本",
           position: "right",
         },
       ],
