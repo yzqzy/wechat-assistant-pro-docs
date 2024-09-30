@@ -6,6 +6,8 @@ authors: [heora]
 
 **微信助手 Pro** 版本首次发布！
 
+<!-- truncate -->
+
 主要包含以下功能：
 
 - 单机部署：无需服务器，支持 Windows 平台
