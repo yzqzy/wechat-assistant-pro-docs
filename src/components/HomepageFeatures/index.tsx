@@ -10,32 +10,29 @@ type FeatureItem = {
 
 const FeatureList: FeatureItem[] = [
   {
-    title: "Easy to Use",
+    title: "通讯录",
     Svg: require("@site/static/img/undraw_docusaurus_mountain.svg").default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        通讯录功能可以帮助你快速找到你需要的人，同时也能帮助你管理好你的好友关系。支持导出通讯录、删除好友、修改备注等功能。
       </>
     ),
   },
   {
-    title: "Focus on What Matters",
+    title: "群管理",
     Svg: require("@site/static/img/undraw_docusaurus_tree.svg").default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        群管理功能可以帮助你管理你的群组，包括创建、邀请、删除、修改群组信息、导出群成员信息、群列表信息等。
       </>
     ),
   },
   {
-    title: "Powered by React",
+    title: "定时提醒",
     Svg: require("@site/static/img/undraw_docusaurus_react.svg").default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        定时提醒功能可以帮助你安排好自己的日程，提醒自己及时完成任务。支持发送图片、语音、视频、文件等多种消息。
       </>
     ),
   },

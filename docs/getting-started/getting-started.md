@@ -22,6 +22,8 @@ sidebar_position: 2
 
 输入授权码和 WeChat API License 后，创建微信助手账号，返回登录页面，点击登录即可使用完整功能。
 
+[点击查看详细安装指南](/docs/getting-started/getting-started-guide)
+
 ## 多开微信
 
 **微信助手 Pro** 支持多开微信，可以同时登录多个微信号，并在不同微信号之间切换。

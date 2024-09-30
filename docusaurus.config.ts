@@ -63,7 +63,6 @@ const config: Config = {
   ],
 
   themeConfig: {
-    image: "img/docusaurus-social-card.jpg",
     navbar: {
       title: "微信助手 Pro",
       logo: {
