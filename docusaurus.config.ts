@@ -76,7 +76,7 @@ const config: Config = {
           position: "left",
           label: "使用文档",
         },
-        { to: "/blog", label: "更新记录", position: "left" },
+        { to: "/blog", label: "版本更新记录", position: "left" },
         {
           href: "https://github.com/yzqzy",
           label: "GitHub",
