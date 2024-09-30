@@ -2,46 +2,31 @@
 sidebar_position: 1
 ---
 
-# Tutorial Intro
+# 基础介绍
 
-Let's discover **Docusaurus in less than 5 minutes**.
+欢迎使用微信助手 Pro！
 
-## Getting Started
+## 功能介绍
 
-Get started by **creating a new site**.
+微信助手 Pro 可以帮助你管理微信号，包括通讯录、群管理、视频号、朋友圈、定时任务、直播间等。
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+> 我们会持续探索更多好用且实用的功能，欢迎您对我们的产品提出宝贵意见。
 
-### What you'll need
+## 特色功能
 
-- [Node.js](https://nodejs.org/en/download/) version 18.0 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
+- 独立部署
+- 稳定不被封
+- 多开微信
+- 通讯录
+- 群管理
+- 视频号
+- 朋友圈
+- 直播间
+- 定时提醒
+- 聊天记录
+- ...
 
-## Generate a new site
+## 业务功能定制
 
-Generate a new Docusaurus site using the **classic template**.
+可洽谈，需要技术评估工作量。
 
-The classic template will automatically be added to your project after you run the command:
-
-```bash
-npm init docusaurus@latest my-website classic
-```
-
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
-
-The command also installs all necessary dependencies you need to run Docusaurus.
-
-## Start your site
-
-Run the development server:
-
-```bash
-cd my-website
-npm run start
-```
-
-The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
-
-The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
-
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.

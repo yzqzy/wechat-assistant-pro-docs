@@ -1,3 +1,3 @@
-# wechat-assistant-pro-docs
+# Wechat Assistant Pro Docs
 
-微信助手 Pro 文档
+This is the documentation for Wechat Assistant Pro.
