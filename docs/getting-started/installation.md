@@ -24,7 +24,7 @@ sidebar_position: 2
 
 <img src="/img/software_05.png" width="480" />
 
-等待数据加密完成，即可进入软件运行主界面，体验完整的 **微信助手 Pro** 功能。
+等待数据加载完成，即可进入软件运行主界面，体验完整的 **微信助手 Pro** 功能。
 
 <img src="/img/software_06_mosaic.png" width="480" />
 
