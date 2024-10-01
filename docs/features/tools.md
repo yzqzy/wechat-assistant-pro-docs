@@ -4,20 +4,14 @@ sidebar_position: 4
 
 # 工具箱
 
-You have just learned the **basics of Docusaurus** and made some changes to the **initial template**.
+工具箱主要是一些常用的工具。
 
-Docusaurus has **much more to offer**!
+## OCR 文字识别
 
-Have **5 more minutes**? Take a look at **[versioning](../tutorial-extras/manage-docs-versions.md)** and **[i18n](../tutorial-extras/translate-your-site.md)**.
+OCR（Optical Character Recognition，光学字符识别）是指通过扫描、摄像头等设备将文字、数字等信息转化为计算机能识别的文字、数字信息的过程。
 
-Anything **unclear** or **buggy** in this tutorial? [Please report it!](https://github.com/facebook/docusaurus/discussions/4610)
+<img src="/img/software_tools_01_mosaic.png" width="500" />
 
-## What's next?
+## 语音转文本
 
-- Read the [official documentation](https://docusaurus.io/)
-- Modify your site configuration with [`docusaurus.config.js`](https://docusaurus.io/docs/api/docusaurus-config)
-- Add navbar and footer items with [`themeConfig`](https://docusaurus.io/docs/api/themes/configuration)
-- Add a custom [Design and Layout](https://docusaurus.io/docs/styling-layout)
-- Add a [search bar](https://docusaurus.io/docs/search)
-- Find inspirations in the [Docusaurus showcase](https://docusaurus.io/showcase)
-- Get involved in the [Docusaurus Community](https://docusaurus.io/community/support)
+图片待补充。

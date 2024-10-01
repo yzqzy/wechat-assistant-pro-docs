@@ -5,31 +5,31 @@ sidebar_position: 2
 
 # 群管理
 
-Docusaurus creates a **page for each blog post**, but also a **blog index page**, a **tag system**, an **RSS** feed...
+群管理功能可以帮助你管理群组，包括创建、修改、删除群组、邀请成员、踢出成员、设置群公告、设置群头像、设置群名称等。
 
-## Create your first Post
+## 列表页
 
-Create a file at `blog/2021-02-28-greetings.md`:
+群聊列表，支持查看群聊名称、群成员、管理员、群公告、群头像等信息。
 
-```md title="blog/2021-02-28-greetings.md"
----
-slug: greetings
-title: Greetings!
-authors:
-  - name: Joel Marcey
-    title: Co-creator of Docusaurus 1
-    url: https://github.com/JoelMarcey
-    image_url: https://github.com/JoelMarcey.png
-  - name: Sébastien Lorber
-    title: Docusaurus maintainer
-    url: https://sebastienlorber.com
-    image_url: https://github.com/slorber.png
-tags: [greetings]
----
+<img src="/img/software_chatroom_01_mosaic.png" width="500" />
 
-Congratulations, you have made your first post!
+## 群成员管理
 
-Feel free to play around and edit this post as much as you like.
-```
+支持查看群成员基本信息、踢出群成员、设置群管理员等。
 
-A new blog post is now available at [http://localhost:3000/blog/greetings](http://localhost:3000/blog/greetings).
+<img src="/img/software_chatroom_02_mosaic.png" width="500" />
+
+<br />
+
+支持添加好友到群聊，邀请好友入群。
+
+<img src="/img/software_chatroom_03_mosaic.png" width="500" />
+
+## 创建群聊
+
+图片待补充。
+
+## 退出群聊
+
+图片待补充。
+

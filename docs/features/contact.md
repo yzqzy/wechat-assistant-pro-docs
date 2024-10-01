@@ -4,40 +4,35 @@ sidebar_position: 1
 
 # 通讯录
 
-Add **Markdown or React** files to `src/pages` to create a **standalone page**:
+通讯录功能可以帮助你管理微信好友，包括查看好友信息、添加好友、删除好友、发送消息等。
 
-- `src/pages/index.js` → `localhost:3000/`
-- `src/pages/foo.md` → `localhost:3000/foo`
-- `src/pages/foo/bar.js` → `localhost:3000/foo/bar`
+## 列表页
 
-## Create your first React Page
+好友列表，支持查看微信号、昵称、备注、头像、性别、省份、城市、标签、是否已被删除等信息。
 
-Create a file at `src/pages/my-react-page.js`:
+<img src="/img/software_contact_01_mosaic.png" width="500" />
 
-```jsx title="src/pages/my-react-page.js"
-import React from 'react';
-import Layout from '@theme/Layout';
+## 添加好友
 
-export default function MyReactPage() {
-  return (
-    <Layout>
-      <h1>My React page</h1>
-      <p>This is a React page</p>
-    </Layout>
-  );
-}
-```
+支持多种方式发起好友申请。
 
-A new page is now available at [http://localhost:3000/my-react-page](http://localhost:3000/my-react-page).
+图片待补充。
 
-## Create your first Markdown Page
+## 删除好友
 
-Create a file at `src/pages/my-markdown-page.md`:
+支持批量删除好友，包括单个删除、批量删除等。
 
-```mdx title="src/pages/my-markdown-page.md"
-# My Markdown page
+图片待补充。
 
-This is a Markdown page
-```
+## 发送消息
 
-A new page is now available at [http://localhost:3000/my-markdown-page](http://localhost:3000/my-markdown-page).
+支持发送文本、图片、文件、视频、音频等消息。
+
+<img src="/img/software_contact_02_mosaic.png" width="500" />
+
+## 文件导出
+
+支持导出通讯录为 Excel 格式的文件，方便你进行管理。
+
+<img src="/img/software_contact_03_mosaic.png" width="500" />
+
