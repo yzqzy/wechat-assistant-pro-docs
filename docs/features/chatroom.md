@@ -31,5 +31,4 @@ sidebar_position: 2
 
 ## 退出群聊
 
-图片待补充。
-
+<img src="/img/software_chatroom_04_mosaic.png" width="500" />

@@ -20,7 +20,5 @@ sidebar_position: 3
 
 ## 删除定时提醒
 
-删除定时提醒，支持批量删除或单个删除。
-
 <img src="/img/software_scheduler_03_mosaic.png" width="500" />
 

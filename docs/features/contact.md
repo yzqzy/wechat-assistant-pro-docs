@@ -20,9 +20,7 @@ sidebar_position: 1
 
 ## 删除好友
 
-支持批量删除好友，包括单个删除、批量删除等。
-
-图片待补充。
+<img src="/img/software_contact_04_mosaic.png" width="500" />
 
 ## 发送消息
 
