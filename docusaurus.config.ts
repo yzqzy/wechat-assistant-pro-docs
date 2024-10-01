@@ -74,7 +74,7 @@ const config: Config = {
           type: "docSidebar",
           sidebarId: "tutorialSidebar",
           position: "left",
-          label: "使用文档",
+          label: "文档",
         },
         { to: "/blog", label: "版本更新记录", position: "left" },
         {

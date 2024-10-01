@@ -22,7 +22,7 @@ sidebar_position: 2
 
 输入授权码和 WeChat API License 后，创建微信助手账号，返回登录页面，点击登录即可使用完整功能。
 
-[点击查看详细安装指南](/docs/getting-started/getting-started-guide)
+[点击查看详细安装文档](/docs/getting-started/installation)
 
 ## 多开微信
 
