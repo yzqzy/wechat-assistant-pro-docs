@@ -27,7 +27,7 @@ sidebar_position: 2
 
 ## 创建群聊
 
-图片待补充。
+<img src="/img/software_chatroom_05_mosaic.png" width="500" />
 
 ## 退出群聊
 
