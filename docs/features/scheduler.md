@@ -22,3 +22,6 @@ sidebar_position: 3
 
 <img src="/img/software_scheduler_03_mosaic.png" width="500" />
 
+## 文件导出
+
+支持导出 Excel 格式的定时提醒任务列表。

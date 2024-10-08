@@ -32,3 +32,7 @@ sidebar_position: 2
 ## 退出群聊
 
 <img src="/img/software_chatroom_04_mosaic.png" width="500" />
+
+## 文件导出
+
+支持导出 Excel 格式的群聊列表和群成员列表。
