@@ -54,6 +54,17 @@ const config: Config = {
   ],
 
   themeConfig: {
+    metadata: [
+      {
+        name: 'keywords',
+        content:
+          '微信助手,微信助手Pro,微信对话,微信对话助手,微信机器人,对话机器人,微信客服,微信运营,微信运营工具,微信营销,微信营销工具,微信推广,微信推广工具'
+      },
+      {
+        name: 'description',
+        content: '微信助手 Pro 可以帮助你轻松管理微信，让你更专注于工作。'
+      }
+    ],
     navbar: {
       title: '微信助手 Pro',
       logo: {
