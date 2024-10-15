@@ -1,6 +1,6 @@
 ---
 slug: welcome
-title: 版本首次发布 v1.0.0
+title: v1.0.0
 authors: [heora]
 ---
 

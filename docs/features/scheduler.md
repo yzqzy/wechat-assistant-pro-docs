@@ -25,3 +25,9 @@ sidebar_position: 3
 ## 文件导出
 
 支持导出 Excel 格式的定时提醒任务列表。
+
+## 标签分组
+
+定时任务支持标签分组模式，可以更好地管理定时任务。
+
+<img src="/img/software_scheduler_04_mosaic.png" width="500" />
