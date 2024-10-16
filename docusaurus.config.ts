@@ -53,6 +53,10 @@ const config: Config = {
     ]
   ],
 
+  plugins: [
+    'docusaurus-plugin-image-zoom' // can also just be 'image-zoom'
+  ],
+
   themeConfig: {
     metadata: [
       {
@@ -96,6 +100,19 @@ const config: Config = {
         }
       ]
     },
+
+    zoom: {
+      selector: '.markdown > img',
+      background: {
+        light: 'rgb(255, 255, 255)',
+        dark: 'rgb(50, 50, 50)'
+      },
+      config: {
+        // options you can specify via https://github.com/francoischalifour/medium-zoom#
+        margin: 120
+      }
+    },
+
     prism: {
       theme: prismThemes.github,
       darkTheme: prismThemes.dracula
