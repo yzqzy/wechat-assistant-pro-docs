@@ -36,7 +36,7 @@ const FeatureList: FeatureItem[] = [
     Svg: require("@site/static/img/undraw_docusaurus_react.svg").default,
     description: (
       <>
-        定时提醒功能可以帮助你轻松接入 AI 机器人，实现智能对话。已支持
+        智能对话功能可以帮助你轻松接入 AI 机器人，实现千人千面。已支持
         fastgpt、dify、openai 等多平台。
       </>
     ),
