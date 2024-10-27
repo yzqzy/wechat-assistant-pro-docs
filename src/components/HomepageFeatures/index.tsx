@@ -12,27 +12,42 @@ const FeatureList: FeatureItem[] = [
   {
     title: "通讯录",
     Svg: require("@site/static/img/undraw_docusaurus_mountain.svg").default,
-    description: (
-      <>
-        通讯录功能可以帮助你查看、管理你的微信好友，包括查看好友信息、添加好友、删除好友、修改备注、发送消息等。
-      </>
-    ),
+    description: <>通讯录功能可以帮助你查看、管理你的微信好友。</>,
+  },
+  {
+    title: "标签管理",
+    Svg: require("@site/static/img/undraw_docusaurus_mountain.svg").default,
+    description: <>标签管理功能可以帮助你整理、分类你的微信好友。</>,
   },
   {
     title: "群管理",
     Svg: require("@site/static/img/undraw_docusaurus_tree.svg").default,
-    description: (
-      <>
-        群管理功能可以帮助你管理你的群组，例如查看群成员、群发消息、邀请好友入群、修改群名称、设置群公告等。
-      </>
-    ),
+    description: <>群管理功能可以帮助你管理你的群组，</>,
   },
   {
     title: "定时提醒",
     Svg: require("@site/static/img/undraw_docusaurus_react.svg").default,
     description: (
+      <>定时提醒功能可以帮助你安排好自己的日程，提醒自己及时完成任务。</>
+    ),
+  },
+  {
+    title: "智能对话",
+    Svg: require("@site/static/img/undraw_docusaurus_react.svg").default,
+    description: (
       <>
-        定时提醒功能可以帮助你安排好自己的日程，提醒自己及时完成任务。支持发送图片、语音、视频、文件等多种消息。
+        定时提醒功能可以帮助你轻松接入 AI 机器人，实现智能对话。已支持
+        fastgpt、dify、openai 等多平台。
+      </>
+    ),
+  },
+  {
+    title: "高级功能",
+    Svg: require("@site/static/img/undraw_docusaurus_react.svg").default,
+    description: (
+      <>
+        更多高级功能正在陆续开发中，敬请期待（多群消息同步、RSS
+        订阅推送、转发助手、群发助手 等）。
       </>
     ),
   },
