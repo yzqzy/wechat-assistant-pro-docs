@@ -11,14 +11,14 @@ sidebar_position: 2
 * 准备 Windows 系统电脑或云服务器。
 * 安装指定版本微信（3.9.11.25）。
 * 申请 [WeChat API](https://www.wechatsdk.com/zh) License 。
-* 联系我们，获取 **微信助手 Pro** 软件和授权码。
+* 联系我们以获取 **微信助手 Pro** 软件和授权码。
 
 ## 安装使用
 
 首次安装 **微信助手 Pro** 软件，需要输入授权码 和 WeChat API License。
 
 * 授权码是由 **微信助手 Pro** 官方人员发放，请 [联系我们](/docs/contact) 获取。
-* WeChat API License 是 **微信助手 Pro** 软件的核心功能，需要到 [WeChat API](https://www.wechatsdk.com/zh) 官网申请。
+* WeChat API License 是 **微信助手 Pro** 软件的核心功能，请访问 [WeChat API](https://www.wechatsdk.com/zh) 官网申请，或 [联系我们](/docs/contact) 以获取协助。
 
 输入授权码和 WeChat API License 后，创建微信助手账号，返回登录页面，点击登录即可使用完整功能。
 
