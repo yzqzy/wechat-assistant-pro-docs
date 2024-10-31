@@ -4,7 +4,7 @@ import type * as Preset from '@docusaurus/preset-classic'
 
 const config: Config = {
   title: '微信助手 Pro',
-  tagline: '微信助手 Pro 可以帮助你轻松管理微信，让你更专注于工作。',
+  tagline: '微信助手 Pro 可以帮助您轻松管理微信，让您更专注于工作。',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
@@ -66,7 +66,7 @@ const config: Config = {
       },
       {
         name: 'description',
-        content: '微信助手 Pro 可以帮助你轻松管理微信，让你更专注于工作。'
+        content: '微信助手 Pro 可以帮助您轻松管理微信，让你更专注于工作。'
       }
     ],
     navbar: {
@@ -82,8 +82,8 @@ const config: Config = {
           position: 'left',
           label: '文档'
         },
+        { to: '/docs/pricing', label: '会员价格', position: 'left' },
         { to: '/blog', label: '版本更新记录', position: 'left' },
-        { to: '/pricing', label: '会员价格', position: 'left' },
         {
           href: 'https://github.com/yzqzy',
           label: 'GitHub',
