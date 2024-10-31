@@ -83,6 +83,7 @@ const config: Config = {
           label: '文档'
         },
         { to: '/blog', label: '版本更新记录', position: 'left' },
+        { to: '/pricing', label: '会员价格', position: 'left' },
         {
           href: 'https://github.com/yzqzy',
           label: 'GitHub',
