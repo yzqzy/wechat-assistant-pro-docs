@@ -34,7 +34,7 @@ const FeatureList: FeatureItem[] = [
     Svg: require("@site/static/img/undraw_docusaurus_react.svg").default,
     description: (
       <>
-        帮助您接入 AI 机器人，实现个性化体验，支持 FastGPT、Dify、OpenAI
+        帮助您接入 AI 机器人，实现个性化体验，支持 FastGPT、Dify、Coze、OpenAI
         等多个平台。
       </>
     ),
