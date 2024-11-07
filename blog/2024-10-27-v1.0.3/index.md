@@ -1,7 +1,6 @@
 ---
 slug: v1.0.3
 title: v1.0.3
-authors: [heora]
 ---
 
 **微信助手 Pro** v1.0.3 发布！

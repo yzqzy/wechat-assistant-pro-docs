@@ -1,7 +1,6 @@
 ---
 slug: welcome
 title: v1.0.0
-authors: [heora]
 ---
 
 **微信助手 Pro** 版本首次发布！
