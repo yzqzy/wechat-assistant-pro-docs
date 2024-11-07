@@ -92,12 +92,12 @@ const config: Config = {
           href: 'https://t.me/+doFqJLyVjkZmMDBl',
           label: 'Telegram 群组',
           position: 'right'
-        },
-        {
-          href: 'https://yzqzy.github.io/wechat-assistant/',
-          label: '免费开源版本',
-          position: 'right'
         }
+        // {
+        //   href: 'https://yzqzy.github.io/wechat-assistant/',
+        //   label: '免费开源版本',
+        //   position: 'right'
+        // }
       ]
     },
 
