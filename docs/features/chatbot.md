@@ -16,9 +16,9 @@ sidebar_position: 3
 
 ### 参数配置
 
-支持选择 fastgpt、dify、openai 平台，配置相关参数后，即可使用机器人。
+支持选择 FastGPT、Dify、Coze、OpenAI 等平台，配置相关参数后即可使用对应的机器人。
 
-支持按照联系人、标签分组、群组设置不同的机器人，实现千人千面，不同场景的个性化服务。
+可以按联系人、标签和群组设置不同的机器人，实现千人千面的个性化服务，满足多种场景需求。
 
 <img src="/img/software_chatbot_02_mosaic.png" width="500" />
 
