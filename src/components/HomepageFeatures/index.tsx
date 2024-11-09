@@ -14,13 +14,13 @@ const FeatureList: FeatureItem[] = [
     title: "通讯录",
     Svg: require("@site/static/img/undraw_docusaurus_mountain.svg").default,
     href: "/docs/features/contact",
-    description: <>帮助您查看、管理和整理微信好友，支持分类和标签功能。</>,
+    description: <>帮助您查看、管理和整理微信好友。</>,
   },
   {
     title: "群管理",
     href: "/docs/features/room",
     Svg: require("@site/static/img/undraw_docusaurus_tree.svg").default,
-    description: <>帮助您轻松管理群组。</>,
+    description: <>帮助您轻松管理群组</>,
   },
   {
     title: "定时提醒",
