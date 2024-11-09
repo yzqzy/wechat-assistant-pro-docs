@@ -14,29 +14,26 @@ const FeatureList: FeatureItem[] = [
     title: "通讯录",
     Svg: require("@site/static/img/undraw_docusaurus_mountain.svg").default,
     href: "/docs/features/contact",
-    description: <>帮助您查看、管理和整理微信好友，支持分类和标签功能。</>,
+    description: <>轻松查看、管理和整理您的微信好友。</>,
   },
   {
     title: "群管理",
     href: "/docs/features/room",
     Svg: require("@site/static/img/undraw_docusaurus_tree.svg").default,
-    description: <>帮助您轻松管理群组。</>,
+    description: <>便捷管理群聊，提升沟通效率。</>,
   },
   {
     title: "定时提醒",
     href: "/docs/features/scheduler",
     Svg: require("@site/static/img/undraw_docusaurus_react.svg").default,
-    description: <>帮助您安排日程并及时完成任务。</>,
+    description: <>高效安排日程，确保及时完成任务。</>,
   },
   {
     title: "智能对话",
     href: "/docs/features/chatbot",
     Svg: require("@site/static/img/undraw_docusaurus_react.svg").default,
     description: (
-      <>
-        帮助您接入 AI 机器人，实现个性化体验，支持 FastGPT、Dify、Coze、OpenAI
-        等多个平台。
-      </>
+      <>支持 FastGPT、Dify、Coze、OpenAI 等多个平台，实现个性化体验。</>
     ),
   },
   {
@@ -44,7 +41,7 @@ const FeatureList: FeatureItem[] = [
     href: "/docs/features/message_broadcast",
     Svg: require("@site/static/img/undraw_docusaurus_react.svg").default,
     description: (
-      <>帮助您群发消息，支持文本、图片、文件、音频、视频等多种消息类型。</>
+      <>支持文本、图片、文件、音频、视频等多种消息类型，方便群发。</>
     ),
   },
   {
