@@ -138,6 +138,8 @@ app.get('/', (req, res) => {
 
 
 app.post('/chat/completions', (req, res) => {
+  console.log(req.body);
+
   setTimeout(() => {
     res.json({
       success: false,
