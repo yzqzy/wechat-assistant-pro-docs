@@ -84,11 +84,6 @@ const config: Config = {
         },
         { to: "/blog", label: "版本更新记录", position: "left" },
         {
-          href: "https://t.me/+doFqJLyVjkZmMDBl",
-          label: "Telegram 群组",
-          position: "right",
-        },
-        {
           href: "https://yzqzy.github.io/wechat-assistant/",
           label: "免费开源版本",
           position: "right",
