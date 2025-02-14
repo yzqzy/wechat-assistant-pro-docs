@@ -82,7 +82,6 @@ const config: Config = {
           position: "left",
           label: "文档",
         },
-        { to: "/docs/pricing", label: "会员价格", position: "left" },
         { to: "/blog", label: "版本更新记录", position: "left" },
         {
           href: "https://yzqzy.github.io/wechat-assistant/",
