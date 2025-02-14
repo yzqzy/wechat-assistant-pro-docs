@@ -17,7 +17,7 @@ sidebar_position: 2
 
 首次安装 **微信助手 Pro** 软件，需要输入授权码 和 WeChat API License。
 
-* 授权码是由 **微信助手 Pro** 官方人员发放，请 [联系我们](/docs/contact) 获取。
+* 授权码是由 **微信助手 Pro** 官方人员发放，请联系我们获取。
 * WeChat API License 是 **微信助手 Pro** 软件的核心功能，请访问 [WeChat API](https://www.wechatsdk.com/zh) 官网申请。
 
 输入授权码和 WeChat API License 后，创建微信助手账号，返回登录页面，点击登录即可使用完整功能。
