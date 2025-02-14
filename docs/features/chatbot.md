@@ -32,6 +32,19 @@ sidebar_position: 3
 
 <img src="/img/software_chatbot_05_mosaic.png" width="500" />
 
+## Prompt 管理
+
+### 列表页
+
+Prompt 列表，显示已配置的 Prompt，包括系统内置的 Prompt 及自定义的 Prompt。
+
+**系统内置的 Prompt 无法修改、删除，只能查看。**
+
+<img src="/img/software_chatbot_06_mosaic.png" width="500" />
+
+### 参数配置
+
+<img src="/img/software_chatbot_07_mosaic.png" width="500" />
 
 ## 自定义对话模型
 
@@ -53,7 +66,7 @@ Authorization: Bearer [Your API Key]
 请求参数：
 
 ```typescript
-type MesssagePayload = {
+type MessagePayload = {
   type: MessageType;
   id: string;
 
@@ -71,13 +84,15 @@ type MesssagePayload = {
 
 interface ChatProps extends BaseChatProps {
   chatId?: string;
+  userId: string;
   stream?: string;
   variables?: Record<string, string>;
-  payload?: MesssagePayload;
+  question: string;
+  payload?: MessagePayload;
 }
 ```
 
-> 注意：`MesssagePayload` 为 wechaty 标准消息类型。
+> 注意：`MessagePayload` 为 wechaty 标准消息类型。
 
 响应参数：
 
@@ -158,16 +173,16 @@ app.listen(4000, () => {
 });
 ```
 
-## Prompt 管理
+## 聊天记录
 
 ### 列表页
 
-Prompt 列表，显示已配置的 Prompt，包括系统内置的 Prompt 及自定义的 Prompt。
+聊天记录列表，显示消息列表，支持按时间段、机器人、用户类型筛选，支持导出对话记录。
 
-**系统内置的 Prompt 无法修改、删除，只能查看。**
+<img src="/img/software_chat_history_01_mosaic.png" width="500" />
 
-<img src="/img/software_chatbot_06_mosaic.png" width="500" />
+### 聊天详情
 
-### 参数配置
+聊天详情页，显示单条聊天记录的详细信息。
 
-<img src="/img/software_chatbot_07_mosaic.png" width="500" />
+<img src="/img/software_chat_history_02_mosaic.png" width="500" />
