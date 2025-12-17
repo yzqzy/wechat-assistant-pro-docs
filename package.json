@@ -1,6 +1,6 @@
 {
   "name": "wechat-assistant-pro-docs",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "private": true,
   "scripts": {
     "docusaurus": "docusaurus",
