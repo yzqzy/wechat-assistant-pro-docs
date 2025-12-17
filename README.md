@@ -118,9 +118,8 @@ npm run serve
 
 ## 相关链接
 
-- [免费开源版本](https://yzqzy.github.io/wechat-assistant/)
 - [WeChat API 官网](https://www.wechatsdk.com/zh)
 
 ## 许可证
 
-MIT
+本项目采用 [MIT](LICENSE) 许可证。
