@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="rss.xsl"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>微信助手 Pro Blog</title>
+        <link>https://your-docusaurus-site.example.com/blog</link>
+        <description>微信助手 Pro Blog</description>
+        <lastBuildDate>Sun, 24 Nov 2024 00:00:00 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <language>zh</language>
+        <item>
+            <title><![CDATA[v1.0.6]]></title>
+            <link>https://your-docusaurus-site.example.com/blog/v1.0.6</link>
+            <guid>https://your-docusaurus-site.example.com/blog/v1.0.6</guid>
+            <pubDate>Sun, 24 Nov 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[微信助手 Pro v1.0.6 发布！]]></description>
+            <content:encoded><![CDATA[<p><strong>微信助手 Pro</strong> v1.0.6 发布！</p>
+<p>主要功能更新如下：</p>
+<ul>
+<li>智能对话：<!-- -->
+<ul>
+<li>聊天记录: 新增 <a href="https://your-docusaurus-site.example.com/docs/features/chatbot#%E8%81%8A%E5%A4%A9%E8%AE%B0%E5%BD%95">聊天记录</a> 功能，支持查看对话列表、对话详情、导出聊天记录等功能。</li>
+<li>自定义对话模型：请求参数优化，新增 <code>user_id</code>、<code>question</code> 参数，<a href="https://your-docusaurus-site.example.com/docs/features/chatbot#%E8%87%AA%E5%AE%9A%E4%B9%89%E5%AF%B9%E8%AF%9D%E6%A8%A1%E5%9E%8B">查看更多</a>。</li>
+</ul>
+</li>
+<li>高级功能：<!-- -->
+<ul>
+<li>回调事件：新增 <a href="https://your-docusaurus-site.example.com/docs/features/callback_event">回调事件</a> 功能，支持自定义回调接口，提供更丰富的功能扩展。</li>
+</ul>
+</li>
+<li>Bug 修复：修复多项已知问题，提升稳定性和用户体验。</li>
+</ul>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[v1.0.5]]></title>
+            <link>https://your-docusaurus-site.example.com/blog/v1.0.5</link>
+            <guid>https://your-docusaurus-site.example.com/blog/v1.0.5</guid>
+            <pubDate>Sat, 09 Nov 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[微信助手 Pro v1.0.5 发布！]]></description>
+            <content:encoded><![CDATA[<p><strong>微信助手 Pro</strong> v1.0.5 发布！</p>
+<p>主要功能更新如下：</p>
+<ul>
+<li>智能对话：<!-- -->
+<ul>
+<li>语音回复支持：兼容多种语音合成 API，如 <a href="https://platform.openai.com/docs/guides/text-to-speech" target="_blank" rel="noopener noreferrer">OpenAI</a> 和 <a href="https://elevenlabs.io/docs/api-reference/text-to-speech" target="_blank" rel="noopener noreferrer">ElevenLabs</a>。</li>
+<li>触发关键字配置：提供模糊匹配和精准匹配，满足多场景需求。</li>
+<li>自定义对话模型：支持通过 <a href="https://your-docusaurus-site.example.com/docs/features/chatbot#%E8%87%AA%E5%AE%9A%E4%B9%89%E5%AF%B9%E8%AF%9D%E6%A8%A1%E5%9E%8B">回调地址方式</a> 实现模型自定义。</li>
+</ul>
+</li>
+<li>Bug 修复：修复多项已知问题，提升稳定性和用户体验。</li>
+</ul>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[v1.0.4]]></title>
+            <link>https://your-docusaurus-site.example.com/blog/v1.0.4</link>
+            <guid>https://your-docusaurus-site.example.com/blog/v1.0.4</guid>
+            <pubDate>Sun, 03 Nov 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[微信助手 Pro v1.0.4 发布！]]></description>
+            <content:encoded><![CDATA[<p><strong>微信助手 Pro</strong> v1.0.4 发布！</p>
+<p>主要功能更新如下：</p>
+<ul>
+<li>智能对话：支持对接 Coze 平台。</li>
+<li>群发助手：<!-- -->
+<ul>
+<li>按联系人、标签和群组进行群发。</li>
+<li>支持群发文字、图片、视频、文件、名片、H5 链接和小程序卡片等多种内容。</li>
+</ul>
+</li>
+<li>Bug 修复：修复多项已知问题，提升稳定性和用户体验。</li>
+</ul>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[v1.0.3]]></title>
+            <link>https://your-docusaurus-site.example.com/blog/v1.0.3</link>
+            <guid>https://your-docusaurus-site.example.com/blog/v1.0.3</guid>
+            <pubDate>Sun, 27 Oct 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[微信助手 Pro v1.0.3 发布！]]></description>
+            <content:encoded><![CDATA[<p><strong>微信助手 Pro</strong> v1.0.3 发布！</p>
+<p>主要功能更新如下：</p>
+<ul>
+<li>智能对话：<!-- -->
+<ul>
+<li>新增对话机器人功能，支持多种平台。</li>
+<li>快速接入 FastGPT、Dify、OpenAI 等平台。</li>
+<li>新增 Prompt 管理功能，支持预设和自定义系统 Prompt。</li>
+<li>按联系人、标签和群组分组，配置不同的机器人。</li>
+<li>修改机器人配置后实时生效，无需重启微信助手。</li>
+</ul>
+</li>
+<li>定时提醒：支持快速复制已配置的任务，简化配置流程。</li>
+<li>Bug 修复：修复多项已知问题，提升稳定性和用户体验。</li>
+</ul>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[v1.0.2]]></title>
+            <link>https://your-docusaurus-site.example.com/blog/v1.0.2</link>
+            <guid>https://your-docusaurus-site.example.com/blog/v1.0.2</guid>
+            <pubDate>Sun, 20 Oct 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[微信助手 Pro v1.0.2 发布！]]></description>
+            <content:encoded><![CDATA[<p><strong>微信助手 Pro</strong> v1.0.2 发布！</p>
+<p>主要功能更新如下：</p>
+<ul>
+<li>消息发送：支持发送名片、H5 链接和小程序卡片。</li>
+<li>通讯录：新增下载标签列表功能。</li>
+<li>定时提醒：支持配置延迟时间，以控制消息发送频率。</li>
+<li>Bug 修复：修复多项已知问题，提升稳定性和用户体验。</li>
+</ul>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[v1.0.1]]></title>
+            <link>https://your-docusaurus-site.example.com/blog/v1.0.1</link>
+            <guid>https://your-docusaurus-site.example.com/blog/v1.0.1</guid>
+            <pubDate>Wed, 16 Oct 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[微信助手 Pro v1.0.1 发布！]]></description>
+            <content:encoded><![CDATA[<p><strong>微信助手 Pro</strong> v1.0.1 发布！</p>
+<p>主要功能更新如下：</p>
+<ul>
+<li>通讯录：新增标签管理功能。</li>
+<li>定时提醒：支持分组模式，提升管理效率。</li>
+<li>Bug 修复：修复若干已知问题，优化使用体验。</li>
+</ul>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[v1.0.0]]></title>
+            <link>https://your-docusaurus-site.example.com/blog/welcome</link>
+            <guid>https://your-docusaurus-site.example.com/blog/welcome</guid>
+            <pubDate>Tue, 01 Oct 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[微信助手 Pro 版本首次发布！]]></description>
+            <content:encoded><![CDATA[<p><strong>微信助手 Pro</strong> 版本首次发布！</p>
+<p>功能特性：</p>
+<ul>
+<li>单机部署：无需服务器，支持 Windows 平台。</li>
+<li>登录方式：扫码登录微信，支持手机微信登录。</li>
+<li>多账号支持：同时登录多个微信账号，便捷管理。</li>
+<li>通讯录管理：轻松管理好友，发送消息，导出通讯录列表。</li>
+<li>群组管理：管理群组，发送消息，查看群成员，导出群成员和群列表。</li>
+<li>定时提醒：设置定时提醒，发送文本、图片、语音、视频和文件等消息。</li>
+<li>工具集：内置文字识别（OCR）功能。</li>
+<li>系统设置：配置微信助手 Pro 相关设置。</li>
+</ul>]]></content:encoded>
+        </item>
+    </channel>
+</rss>
