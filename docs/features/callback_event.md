@@ -10,13 +10,13 @@ sidebar_position: 5
 
 查看已配置的回调事件列表，可以编辑或删除已配置的回调事件。
 
-<img src="/img/software_callback_event_01_mosaic.png" width="500" />
+![图片](/img/software_callback_event_01_mosaic.png)
 
 ## 参数配置
 
 配置回调事件的名称、关键字、用户类型、触发条件等参数。
 
-<img src="/img/software_callback_event_02_mosaic.png" width="500" />
+![图片](/img/software_callback_event_02_mosaic.png)
 
 ## 自定义回调地址
 

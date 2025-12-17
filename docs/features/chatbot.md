@@ -12,7 +12,7 @@ sidebar_position: 3
 
 机器人列表，显示已配置的机器人以及基本信息。
 
-<img src="/img/software_chatbot_01_mosaic.png" width="500" />
+![图片](/img/software_chatbot_01_mosaic.png)
 
 ### 参数配置
 
@@ -20,17 +20,17 @@ sidebar_position: 3
 
 可以按联系人、标签和群组设置不同的机器人，实现千人千面的个性化服务，满足多种场景需求。
 
-<img src="/img/software_chatbot_02_mosaic.png" width="500" />
+![图片](/img/software_chatbot_02_mosaic.png)
 
 <br />
 <br />
 
-<img src="/img/software_chatbot_03_mosaic.png" width="500" />
+![图片](/img/software_chatbot_03_mosaic.png)
 
 <br />
 <br />
 
-<img src="/img/software_chatbot_05_mosaic.png" width="500" />
+![图片](/img/software_chatbot_05_mosaic.png)
 
 ## Prompt 管理
 
@@ -40,11 +40,11 @@ Prompt 列表，显示已配置的 Prompt，包括系统内置的 Prompt 及自�
 
 **系统内置的 Prompt 无法修改、删除，只能查看。**
 
-<img src="/img/software_chatbot_06_mosaic.png" width="500" />
+![图片](/img/software_chatbot_06_mosaic.png)
 
 ### 参数配置
 
-<img src="/img/software_chatbot_07_mosaic.png" width="500" />
+![图片](/img/software_chatbot_07_mosaic.png)
 
 ## 自定义对话模型
 
@@ -179,10 +179,10 @@ app.listen(4000, () => {
 
 聊天记录列表，显示消息列表，支持按时间段、机器人、用户类型筛选，支持导出对话记录。
 
-<img src="/img/software_chat_history_01_mosaic.png" width="500" />
+![图片](/img/software_chat_history_01_mosaic.png)
 
 ### 聊天详情
 
 聊天详情页，显示单条聊天记录的详细信息。
 
-<img src="/img/software_chat_history_02_mosaic.png" width="500" />
+![图片](/img/software_chat_history_02_mosaic.png)

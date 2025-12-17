@@ -10,27 +10,27 @@ sidebar_position: 2
 
 群聊列表，支持查看群聊名称、群成员、管理员、群公告、群头像等信息。
 
-<img src="/img/software_chatroom_01_mosaic.png" width="500" />
+![图片](/img/software_chatroom_01_mosaic.png)
 
 ## 群成员管理
 
 支持查看群成员基本信息、踢出群成员、设置群管理员等。
 
-<img src="/img/software_chatroom_02_mosaic.png" width="500" />
+![图片](/img/software_chatroom_02_mosaic.png)
 
 <br />
 
 支持添加好友到群聊，邀请好友入群。
 
-<img src="/img/software_chatroom_03_mosaic.png" width="500" />
+![图片](/img/software_chatroom_03_mosaic.png)
 
 ## 创建群聊
 
-<img src="/img/software_chatroom_05_mosaic.png" width="500" />
+![图片](/img/software_chatroom_05_mosaic.png)
 
 ## 退出群聊
 
-<img src="/img/software_chatroom_04_mosaic.png" width="500" />
+![图片](/img/software_chatroom_04_mosaic.png)
 
 ## 文件导出
 

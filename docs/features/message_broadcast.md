@@ -10,13 +10,13 @@ sidebar_position: 4
 
 列表页，查看当前群发助手的配置信息。
 
-<img src="/img/software_broadcast_message_01_mosaic.png" width="500" />
+![图片](/img/software_broadcast_message_01_mosaic.png)
 
 ## 参数配置
 
-<img src="/img/software_broadcast_message_02_mosaic.png" width="500" />
+![图片](/img/software_broadcast_message_02_mosaic.png)
 
 <br />
 <br />
 
-<img src="/img/software_broadcast_message_03_mosaic.png" width="500" />
+![图片](/img/software_broadcast_message_03_mosaic.png)
